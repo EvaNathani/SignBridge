@@ -4,13 +4,6 @@ SignBridge is a live American Sign Language (ASL) fingerspelling recognition sys
 
 ---
 
-## Demo
-
-> **Add a screenshot or GIF here of the app running.**
-> Recommended: a 640×480 screenshot of the OpenCV window showing a hand sign, the skeleton overlay, and text in the sentence bar.
-
----
-
 ## Setup
 
 ### Requirements
