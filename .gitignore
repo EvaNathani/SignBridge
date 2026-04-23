@@ -1,0 +1,11 @@
+# Raw training images (use Kaggle dataset directly)
+data/raw/
+
+# Oversized model file (244MB, exceeds GitHub's 100MB limit)
+models/static_model_rf.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
